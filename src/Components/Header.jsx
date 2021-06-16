@@ -44,7 +44,7 @@ const Header = () => {
                 <div className = "social-icons">
                     <ul>
                         <li>
-                            <a href = "*"><i className = "fab fa-facebook"></i></a>
+                            <a href = "*"><i className = "fab fa-youtube"></i></a>
                         </li>
                         <li>
                             <a href = "*"><i className = "fab fa-twitter"></i></a>
@@ -53,7 +53,7 @@ const Header = () => {
                             <a href = "*"><i className = "fab fa-instagram"></i></a>
                         </li>
                         <li>
-                            <a href = "*"><i className = "fab fa-pinterest"></i></a>
+                            <a href = "mailto:skooly256@gmail.com"><i className = "fab fa-google"></i></a>
                         </li>
                     </ul>
                 </div>

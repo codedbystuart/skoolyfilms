@@ -9,7 +9,7 @@ const Gallery = () =>{
       <section className = "section-three">
             <div className = "container">
                 <div className = "gallery">
-                    <a href = "images/gallery1.jpg">
+                    <a href = "https://youtu.be/mB_9X354BWc">
                         <div className = "single-img">
                             <img src = "images/gallery1.jpg" alt = "gallery "/>
                             <div className = "single-img-content">
